@@ -1,5 +1,4 @@
 ## Express Skeleton
-==========
 
 Copyright (c) 2014 Jennelle Nystrom
 
