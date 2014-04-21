@@ -10,3 +10,4 @@ A very minimalist skeleton for express 4.x
 Download the source and from the root directory, run:
 
 	npm install
+
